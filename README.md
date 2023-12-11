@@ -4,6 +4,7 @@
 Pharmacogenomics aim to better understand how individual's genes affect their response to medications. While a majority of human DNA is identical, there are sequence variations that lead to different versions of the same gene. These are known as polymorphisms, and occur in individuals and populations. These differences, while seemingly small, can affect how drugs are uniquely absorbed, metabolized, and excreted in the body. This explains why responses to certain treatments vary. For this reason, Pharmacogenomics aims at understanding the root problem instead of finding a one-fits-all approach to treating symptoms.
 
 This image shows a Single Nucleotide Polymorphism (SNP) which is when the variant is a singluar base switch. SNPs are the most common form of polymorphisms.
+
 ![image description](https://github.com/Mosherof/beng183_final_project/assets/107957172/01270794-e487-45d1-a726-eee0aaa3ed58)
 
 ### The History of Pharmacogenomics
