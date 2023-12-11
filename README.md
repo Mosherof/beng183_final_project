@@ -19,11 +19,9 @@ Using Gel Electrophoresis, more polymorphisms were discovered which impacted how
 Another polymorphism discovery in the late 1900s was 
 
 ### Understanding the Cause, Instead of Treating the Symptoms
+
+Diving deeper, Pharmacogenomics aims at understanding the root problem instead of finding a one-fits-all approach to treating symptoms. To do this, we have to understand 3 main components. The first is when the drug targets binding to receptors on cells. In this case, a person being helped by the drug relies on the receptors recognizing the drug. Gene differences mean that some people might have less receptors or no receptors that can do this. The second is uptake which is when the drug targets the cells. Physiological variations means some people will have higher cell permeability for the drug than others. Thirdly, an individual's DNA affects how quickly a drug is broken down, and excreted which affects the correct dosage. 
+
 ![image description](https://github.com/Mosherof/beng183_final_project/assets/107957172/45ae8d6e-7e19-46cc-b3a0-47780ffbd05a)
-### Receptors
-ADD TO ME LATER
-### Uptake
-ADD TO ME LATER
-### Breakdown
-ADD TO ME LATER
+
 
