@@ -24,4 +24,11 @@ Diving deeper, Pharmacogenomics aims at understanding the root problem instead o
 
 ![image description](https://github.com/Mosherof/beng183_final_project/assets/107957172/45ae8d6e-7e19-46cc-b3a0-47780ffbd05a)
 
+# Works Cited
+Motulsky, A. G., & Qi, M. (2006, February). Pharmacogenetics, Pharmacogenomics and Ecogenetics. Journal of Zhejiang University. Science. B. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363768/ 
+RM;, L. L. L. J. (n.d.). Pharmacogenetics of acute azathioprine toxicity: Relationship to thiopurine methyltransferase genetic polymorphism. Clinical pharmacology and therapeutics. https://pubmed.ncbi.nlm.nih.gov/2758725/ 
+Centers for Disease Control and Prevention. (2022, May 20). Pharmacogenomics: What does it mean for your health?. Centers for Disease Control and Prevention. https://www.cdc.gov/genomics/disease/pharma.htm 
+Dean, Laura. “Warfarin Therapy and VKORC1 and CYP Genotype - Medical Genetics ...” Medical Genetics Summaries, National Center for Biotechnology Information, 8 Mar. 2012, www.ncbi.nlm.nih.gov/books/NBK84174/. 
+Noyes, J.D.; Mordi, I.R.; Doney, A.S.; Jamal, R.; Lang, C.C. Precision Medicine and Adverse Drug Reactions Related to Cardiovascular Drugs. Diseases 2021, 9, 55. https://doi.org/10.3390/diseases9030055
+
 
