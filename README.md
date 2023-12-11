@@ -5,7 +5,7 @@ Pharmacogenomics aim to better understand how individual's genes affect their re
 
 This image shows a Single Nucleotide Polymorphism (SNP) which is when the variant is a singluar base switch. SNPs are the most common form of polymorphisms.
 
-![image description](https://github.com/Mosherof/beng183_final_project/assets/107957172/01270794-e487-45d1-a726-eee0aaa3ed58)
+![image description](https://github.com/Mosherof/beng183_final_project/assets/107957172/0d20e3d9-a95f-4f2c-8efc-3e0f280b05a3)
 
 ### The History of Pharmacogenomics
 The beginning of pharmacogenomics dates back to 510 B.C. when Pythagoras observed that eating fava beans caused fatal results for select individuals. However, lack of technology and understanding of genetics meant that no one during this time could provide a hypothetical hypothesis as to why. It took almost 2000 years before the huuman geneticist Friedrich Vogel discovered the enzyme polymorphism Glucose 6 Phosphate Dehydrogenase gene which predisposed thoseo with a mutation to hemolytic anemia in the presence of certain foods and chemicals. Two of these chemicals (vivine and covicine) which caused fatal hemolytic anemia were in fava beans which finally answered why some people could not ingest them safely.
